@@ -4,12 +4,12 @@ This project is an ERP Management System built using the MERN stack (MongoDB, Ex
 
 ## Features
 - User Authentication (Admin Login)
-- Product Management
-- Customer Management
-- Supplier Management
-- Sales Orders
 - Inventory Management
-- Payment handling (backend)
+- Orders Management
+- Sales Management
+- Suppliers Management
+- Payments (Backend)
+- Role-based access (Admin)
 
 ## Tech Stack
 - Frontend: React.js
@@ -17,8 +17,16 @@ This project is an ERP Management System built using the MERN stack (MongoDB, Ex
 - Database: MongoDB
 
 ## How to Run
-1. Clone the repository
-2. Run backend using: npm start
-3. Run frontend using: npm start
 
-This project was built for internship/academic submission.
+### Backend
+cd backend  
+npm install  
+npm start  
+
+### Frontend
+cd frontend  
+npm install  
+npm start  
+
+## Author
+Almumjama Abbasi
